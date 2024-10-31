@@ -1,1 +1,1 @@
-# ExpectedGoals (xG-Model)
+# ExpectedGoals (xG Model)
